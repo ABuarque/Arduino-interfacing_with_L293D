@@ -1,2 +1,3 @@
 # Arduino-interfacing_with_L293D
-# Arduino-interfacing_with_l293d
+
+This sketch shows how to use the L293D driver to control two motors with and Arduino board.
